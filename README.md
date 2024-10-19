@@ -1,0 +1,1 @@
+Managing databases in the Google Cloud Platform (GCP) is a very straightforward process, and it provides intuitive user interfaces for creating and managing databases. However, I encountered a simple issue with the user permissions, and I have tried many times to solve it. Overall Bigquery is very user friendly to use
